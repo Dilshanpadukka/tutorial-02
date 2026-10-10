@@ -1,4 +1,4 @@
-package uk.ac.wetminster.tutorial01.controller;
+package uk.ac.wetminster.tutorial01;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

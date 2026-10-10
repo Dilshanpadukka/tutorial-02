@@ -1,4 +1,4 @@
-package uk.ac.wetminster.tutorial01.model;
+package uk.ac.wetminster.tutorial01;
 
 /**
  * Week 1 starter class.
